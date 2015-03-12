@@ -1,0 +1,1 @@
+# detect-blurry-image
